@@ -16,7 +16,7 @@ NOTABLE FEATURES :
 - (Always active) Catching now rewards the same exp amount as KOing a Pokémon. On par with gen6+.
 - (Optional) Adds gen 7+ exp system through a toggleable exp share item, which is now a key item, available at the same time as the CUT HM.
 - When exp share is toggled, catch exp is also shared in the same manner.
-- The vanilla drops for the two original exp shares are replaced with little rewards instead. If you don't mind being spoiled, scroll all the way down to see the replacements used.
+- The vanilla drops for the two original exp shares are replaced with little rewards instead.
 
 
 FR - v.1.0
@@ -25,4 +25,4 @@ FONCTIONNALITÉS PRINCIPALES :
 - (Toujours actif) Capturer un Pokémon donne le même montant d'exp que de le mettre KO. Aligné sur gen6+.
 - (Optionnel) Ajoute le système d'exp de la gen7+ via un multi-exp activable, dans la poche des items clés, dispo en même temps que la CS Coupe.
 - Quand le multi-exp est activé, l'exp des captures est partagée de la même manière.
-- Les multi-exps du jeu de base ont étés remplacés par des petites récompenses à la place, si vous vous en foutez d'être spoil, scrollez tout en bas de ce document pour voir les items qui les remplacent.
+- Les multi-exps du jeu de base ont étés remplacés par des petites récompenses à la place.
