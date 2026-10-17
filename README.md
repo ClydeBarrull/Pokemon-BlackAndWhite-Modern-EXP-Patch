@@ -1,3 +1,5 @@
+## Pokemon Black & White Modern EXP Patch - WORKS FOR US AND EU
+
 This patch aims to overhaul the exp system to align to more recent Pokémon games, with adjustability.
 
 You can apply it by using delta patcher (github link : https://github.com/marco-calautti/DeltaPatcher) on a US or EU rom of the game, depending on the language you want and LEGALLY OBTAINED rom you have. Preferably patch the game before starting a new save file.
